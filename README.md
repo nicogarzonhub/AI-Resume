@@ -22,12 +22,10 @@ Software Development student at RIWI with a strong interest in starting my caree
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **AI Tech Interviewer** | Full-stack AI-powered technical interview simulator. Configure role, level, and stack — the agent conducts a real adaptive interview and generates a detailed evaluation report. | React, Python, FastAPI, OpenAI GPT-4o |
-| **AI Resume Analyzer** | Upload your CV, the AI tells you if you pass the ATS filter and how to improve. Analyzes compatibility, missing keywords, and generates an optimized professional summary. | React, Vite, FastAPI, OpenAI, PyMuPDF |
-| **AI Conversational Agent** | Bilingual AI agent with voice pipeline (STT/TTS), RAG, autonomous tool calling, semantic caching, and multimodal vision. | React, Vite, OpenAI, Whisper, RAG |
-| **Pegasus Mechanics** | Web platform for motorcycle workshop management with an integrated AI assistant capable of answering workshop questions, recommending services, and diagnosing mechanical failures. | React, Vite, Node.js, Python, LangChain, OpenAI, RAG, FastAPI |
-
----
+| **AI Tech Interviewer** | Full-stack AI-powered technical interview simulator. Configure role, level, and stack — the agent conducts a real adaptive interview and generates a detailed evaluation report. | React, Vite, Tailwind CSS |
+| **AI Resume Analyzer** | Upload your CV, the AI tells you if you pass the ATS filter and how to improve. Analyzes compatibility, missing keywords, and generates an optimized professional summary. | React, Vite, Tailwind CSS |
+| **AI Conversational Agent** | Bilingual AI agent with voice pipeline (STT/TTS), RAG, autonomous tool calling, semantic caching, and multimodal vision. | React, Vite, Tailwind CSS |
+| **Pegasus Mechanics** | Web platform for motorcycle workshop management with an integrated AI assistant capable of answering workshop questions, recommending services, and diagnosing mechanical failures. | React, Vite, Tailwind CSS |
 ---
 
 ## Getting Started
