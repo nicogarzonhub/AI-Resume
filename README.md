@@ -7,7 +7,7 @@
   Junior Software Developer passionate about AI automation, backend development, and creating logical, efficient solutions.
 </p>
 
-Open https://projets-portafolio.vercel.app/  to see my portfolio.
+<p Open https://projets-portafolio.vercel.app/  to see my portfolio. <p
 
 ---
 
