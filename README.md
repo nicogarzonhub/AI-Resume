@@ -1,11 +1,13 @@
 <h1 align="center">Nicolas Garzon — Portafolio</h1>
-Open https://projets-portafolio.vercel.app/  to see my portfolio.
+
 
 <p align="center">
   <b>Full-Stack Developer</b>
   <br />
   Junior Software Developer passionate about AI automation, backend development, and creating logical, efficient solutions.
 </p>
+
+Open https://projets-portafolio.vercel.app/  to see my portfolio.
 
 ---
 
