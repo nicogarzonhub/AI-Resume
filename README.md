@@ -1,4 +1,5 @@
 <h1 align="center">Nicolas Garzon — Portafolio</h1>
+Open https://projets-portafolio.vercel.app/  to see my portfolio.
 
 <p align="center">
   <b>Full-Stack Developer</b>
@@ -35,7 +36,7 @@ pnpm install
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to see the result.
+
 
 ---
 
