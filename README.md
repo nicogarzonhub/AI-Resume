@@ -7,8 +7,6 @@
   Junior Software Developer passionate about AI automation, backend development, and creating logical, efficient solutions.
 </p>
 
-<p Open https://projets-portafolio.vercel.app/  to see my portfolio. <p
-
 ---
 
 ## About Me
@@ -31,14 +29,7 @@ Software Development student at RIWI with a strong interest in starting my caree
 | **Pegasus Mechanics** | Web platform for motorcycle workshop management with an integrated AI assistant capable of answering workshop questions, recommending services, and diagnosing mechanical failures. | React, Vite, Node.js, Python, LangChain, OpenAI, RAG, FastAPI |
 ---
 
-## Getting Started
-
-```bash
-pnpm install
-pnpm dev
-```
-
-
+Open https://projets-portafolio.vercel.app/  to see my portfolio.
 
 ---
 
