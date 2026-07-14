@@ -20,6 +20,7 @@ const projects = [
     id: "project.2",
     image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
     color: "from-blue-500/20 to-transparent",
+    github: "https://github.com/nicogarzonhub/AI-Resume.git",
   },
   {
     id: "project.3",
